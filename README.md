@@ -7,4 +7,6 @@ then run the balancing_dataset_stylegan.ipynb notebook to load the preprocessed 
 
 Next import and run stylegan2/stylegan2-ADA on the class seperated images. whcih is in the same notebook
 
-To train the DCGAN architecture it requires the path to image datasets which have been
+To train the DCGAN architecture it requires the path to image folders which were created using balancing_dataset_stylegan.ipynb which are for each folder
+
+train models are in the train GAN model folder and can be used to generate images.
